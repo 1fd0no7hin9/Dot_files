@@ -37,7 +37,7 @@ install tpm complete
 
 mkdir -p ~/.tmux/themes/
 git clone https://github.com/arcticicestudio/nord-tmux.git ~/.tmux/themes/nord-tmux/
-
+chmod +x ~/.tmux/themes/nord-tmux/nord.tmux
 echo "run-shell "~/.tmux/themes/nord-tmux/nord.tmux"" >> ~/.tmux.conf
 
 cat finish

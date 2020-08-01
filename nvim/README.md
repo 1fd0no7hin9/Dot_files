@@ -2,9 +2,9 @@
 ## key map
  key  | set to
 ------|-------
-<leader> | "\" 
-<C>| "Ctrl" 
-<M>| "Alt" 
+\<leader> | "\\" 
+\<C>| "Ctrl" 
+\<M>| "Alt" 
 
 ## requirement
 >### Font icon use by NERDTree Plugin.

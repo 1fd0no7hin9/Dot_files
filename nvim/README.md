@@ -1,11 +1,10 @@
 # nvim config file
 ## key map
-
-<center> key </center> | <center> set to </center>
------------------------|---------------------------
-   \<leader>           | <center> \"\\\" </center>
-\<C>| <center> \"Ctrl" </center>
-\<M>| <center> \"Alt" </center>
+ key  | set to
+------|-------
+<leader> | "\" 
+<C>| "Ctrl" 
+<M>| "Alt" 
 
 ## requirement
 >### Font icon use by NERDTree Plugin.
